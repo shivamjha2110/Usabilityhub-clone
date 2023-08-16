@@ -1,4 +1,4 @@
 # Usabilityhub-clone
 Usabilityhub- clone Website using HTML and CSS
 
-Final look of clone website check here: https://shivamjha2110.github.io/Usabilityhub-clone/
+You can see the website live at: https://shivamjha2110.github.io/Usabilityhub-clone/
